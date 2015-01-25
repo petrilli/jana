@@ -1,6 +1,6 @@
-===============================
+====
 Jana
-===============================
+====
 
 .. image:: https://badge.fury.io/py/jana.png
     :target: http://badge.fury.io/py/jana
@@ -21,3 +21,12 @@ Features
 --------
 
 * TODO
+
+
+Name
+----
+
+The name comes from Jana, the Etruscan goddess and consort of Janus.
+Mythology says that she was the keeper of secrets, mysteries, and hidden
+things. Her name, along with that of Janus, would pass on into Roman
+mythology as so many things did.
